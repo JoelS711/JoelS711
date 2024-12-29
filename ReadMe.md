@@ -2,7 +2,7 @@
 I am a passionate software developer with experience in creating web pages and applications, specializing in technologies such as Java, Python, and JavaScript. My main focus is on both backend and frontend development, and I have experience managing relational and non-relational databases. I consider myself a self-taught individual, always seeking new challenges and learning opportunities. My portfolio includes various projects that showcase my problem-solving skills and dedication to professional growth. I am excited to contribute to the world of software development and continue expanding my skills in this dynamic and ever-evolving field.
 
 
-## 🌐 Socials:
+## 📱 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/emanuel-gelvez-13020a1b0) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@joels3356) 
 
 # 💻 Tech Stack:
