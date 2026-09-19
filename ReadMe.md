@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=210§ion=header&text=Emanuel%20Gelvez&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Developer%20%7C%20%20%7C%20AI%20Specialist&descSize=17&descAlignY=54&animation=fadeIn" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=210&section=header&text=Emanuel%20Gelvez&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=19&descAlignY=54&animation=fadeIn" alt="Header" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=A177FE&width=640&lines=Full-Stack+Developer;AWS;AI+Agents+%7C+RAG+%7C+MCP+Ecosystems;Enterprise+Workflow+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=A177FE&width=640&lines=AI+Engineer;Full-Stack+Developer;AWS+Serverless;RAG+%7C+MCP+%7C+AI+Agents;Enterprise+Automation" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,20 +13,20 @@
   <a href="https://portafolio-emanuelgelvez.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:tu.correo@email.com">
+  <a href="mailto:joelsanabria11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 👨🏻‍💻 About Me
+## 👨🏻💻 About Me
 
-I'm a **highly adaptable** software developer who moves seamlessly between **Full-Stack development**, **Serverless Cloud architectures (AWS)**, and **enterprise process automation**.
+I am an **AI Engineer** and **Full-Stack Developer** focused on integrating Large Language Models (LLMs) and autonomous agents into real-world applications.
 
-I solve complex technological challenges by integrating advanced **AI ecosystems** — autonomous agents, RAG pipelines, MCP and real-time voice AI — to take operational efficiency to the next level. I transform ideas into scalable digital products, ensuring top-tier quality from the underlying infrastructure to the final user experience.
+Rather than just interacting with AI, I build the logic and technical systems around it (RAG, MCP, n8n). Supported by a solid foundation in modern Full-Stack development (React, Python, Java) and Cloud services (AWS), I bridge the gap between cutting-edge AI tools and enterprise software.
 
-| ☁️ **Cloud-Native Architectures** | 🤖 **AI-Driven Solutions** |
+| ☁️ **Cloud & Serverless** | 🤖 **AI-Driven Engineering** |
 | :--- | :--- |
 | 100% serverless, event-driven systems on AWS (Lambda, API Gateway, S3, Textract) with async patterns, presigned URLs and a FinOps mindset. | Autonomous agents (Qwen-Agent), RAG pipelines, MCP integrations, LLM guardrails, real-time voice AI (ElevenLabs · WebRTC) and computer vision (CLIP embeddings + pgvector). |
 | ⚙️ **Enterprise Automation** | 📊 **Data Engineering** |
@@ -123,4 +123,4 @@ I solve complex technological challenges by integrating advanced **AI ecosystems
   <img src="https://komarev.com/ghpvc/?username=JoelS711&color=764ba2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120§ion=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" alt="Footer" />
