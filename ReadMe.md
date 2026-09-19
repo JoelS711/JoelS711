@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=210§ion=header&text=Emanuel%20Gelvez&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Developer%20%7C%20Cloud%20Architect%20(AWS)%20%7C%20AI%20Specialist&descSize=17&descAlignY=54&animation=fadeIn" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=210§ion=header&text=Emanuel%20Gelvez&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Developer%20%7C%20%20%7C%20AI%20Specialist&descSize=17&descAlignY=54&animation=fadeIn" alt="Header" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=A177FE&width=640&lines=Full-Stack+Developer;Serverless+Cloud+Architect+(AWS);AI+Agents+%7C+RAG+%7C+MCP+Ecosystems;Enterprise+Workflow+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=A177FE&width=640&lines=Full-Stack+Developer;AWS;AI+Agents+%7C+RAG+%7C+MCP+Ecosystems;Enterprise+Workflow+Automation" alt="Typing SVG" />
   </a>
 </p>
 
